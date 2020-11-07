@@ -1,0 +1,12 @@
+# Site settings
+title: Barry Tandy
+email: hello@barrytandy.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: BarryTandy
+github_username: BarryTandy
+
+# Build settings
+markdown: kramdown
